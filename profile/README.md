@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <a href="https://smartystudio.net" target="_blank">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
 
 Our biggest passion is creating websites that are easy to use, easy to find and work flawlessly. Fueled by curiosity and enthusiasm, we are constantly looking for ways to improve ourselves. And we genuinely enjoy what we do.
